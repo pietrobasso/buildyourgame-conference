@@ -1,5 +1,5 @@
 # Build Your Game - Unity for Beginners
-This repository contains the **presentation** in various formats **(PDF, PowerPoint)** from the project **Build Your Game - Unity for Beginners** presented on April 18 2016 at the year's first Microsoft Student Partners conference in Udine.
+This repository contains the **presentation** in **PDF** from the project **Build Your Game - Unity for Beginners** presented on April 18 2016 at the year's first Microsoft Student Partners conference in Udine.
 
 # How to use this repo
 ![alt tag](https://media.giphy.com/media/wErJXg1tIgHXG/giphy.gif)
